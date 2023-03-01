@@ -9,7 +9,7 @@ private database, achieving a 98.4% of fake detection accuracy for the best perf
 mesoscopic level of analysis is used for the models, as at a microscopic level, image noise is
 strongly degraded and at higher semantic levels, the human eye struggles to distinguish forged
 images. Hence, an intermediate approach is employed using a deep neural network with a small
-number of layers.
+number of layers. We were able to achieve around 95% accuracy for MesoNet and around 90% accuracy for MesoInceptionNet.
 
 
 Resized Images:
