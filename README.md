@@ -11,5 +11,13 @@ strongly degraded and at higher semantic levels, the human eye struggles to dist
 images. Hence, an intermediate approach is employed using a deep neural network with a small
 number of layers.
 
+
+Resized Images:
+<img width="236" alt="image" src="https://user-images.githubusercontent.com/68967101/222269133-128fa115-b782-43f3-a4fc-ffb40bf096df.png">
+
+
+
+Predictions:
+
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/68967101/222268512-e892d61f-45e0-4560-9c21-fd5341ced786.png">
 
