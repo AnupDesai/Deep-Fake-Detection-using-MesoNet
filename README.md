@@ -13,6 +13,8 @@ number of layers.
 
 
 Resized Images:
+
+
 <img width="236" alt="image" src="https://user-images.githubusercontent.com/68967101/222269133-128fa115-b782-43f3-a4fc-ffb40bf096df.png">
 
 
